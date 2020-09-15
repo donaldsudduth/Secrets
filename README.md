@@ -7,6 +7,4 @@ All user passwords are hashed and have gone through 10 rounds of salting.
 
 
 # Usage
-/register = users can register an account with an email/password combination, or can use Google oAuth to login. Once logged in, the user will be redirected to the /secrets page. 
-/login = login to the Secrets website to be able to post your own secret. 
-/secrets = web page where all the anonymous secrets are published. 
+WIP
